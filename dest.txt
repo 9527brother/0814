@@ -1,1 +1,2 @@
 Git desktop is a distributed version control system.
+Git document is a distributed version control system.
